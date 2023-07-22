@@ -1,0 +1,18 @@
+body{
+    background-color: #FFFFFF;
+}
+.tbdr{
+    border: 1px solid black;
+}
+.h{
+    height: 450px;
+}
+.outline{
+    outline: none;
+}
+.x{
+    width: 80px;
+    height: 80px;
+    border-width: 0.4rem;
+    color: green;
+}
